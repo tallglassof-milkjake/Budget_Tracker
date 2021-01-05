@@ -3,13 +3,13 @@ const logger = require("morgan");
 const compression = require("compression");
 const mongoose = require("mongoose");
 
-mongoose.connect(process.env.MONGODB_URI || process.env.MONGODB_ATLAS, 
-  {   w: "majority",
-      useNewUrlParser: true, 
-      useUnifiedTopology: true,
-      useCreateIndex: true,
-      useFindAndModify: false
-    });
+// mongoose.connect(process.env.MONGODB_URI || process.env.MONGODB_ATLAS, 
+//   {   w: "majority",
+//       useNewUrlParser: true, 
+//       useUnifiedTopology: true,
+//       useCreateIndex: true,
+//       useFindAndModify: false
+//     });
 
 const PORT = process.env.PORT || 3000;
 

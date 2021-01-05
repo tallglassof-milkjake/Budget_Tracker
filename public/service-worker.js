@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
     "../models/transaction.js",
     "/public/db.js",
     "/manifest.webmanifest",
-    "/public/icons/icon-192x192.png",
+    "./public/icons/icon-192x192.png",
     "/public/icons/icon-512x512.png",
   ];
 

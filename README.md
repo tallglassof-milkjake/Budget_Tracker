@@ -48,19 +48,23 @@ No testing necessary
 
 ### Screenshots
 
-Adding an entry while browser is set to offline
+#### Adding an entry while browser is set to offline
+
 ![Offline Budget Entry](/screens/offlinebudget.png)
 
-Showing entry is added to IndexedDB
+#### Showing entry is added to IndexedDB
+
 ![Added to IndexedDB](/screens/serviceworkerentry.png)
 
-Once reconnected and refreshed the entry has now been added to the database
+#### Once reconnected and refreshed the entry has now been added to the database
+
 ![Refreshed and Reconnected](/screens/reconnectandrefresh.png)
 
-A gif showing the above
+#### A gif showing the above
+
 ![Budget Tracker GIF](/screens/Budget_gif.gif)
 
 
 ### Questions
 
-**Any questions please contact me either [here](https://github.com/tallglassof-milkjake) or at jrmackinlay900@gmail.com
+**Any questions please contact me either [here](https://github.com/tallglassof-milkjake) or at jrmackinlay90@gmail.com
